@@ -25,7 +25,7 @@ https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#ii-adding
 
 export const managers = [
      {
-      "roster": 0,
+      "roster": 1,
       "managerID" : "743891179418091520",
       "name": "Bradley Baker",
       "location": "Pittsburgh", // (optional)
