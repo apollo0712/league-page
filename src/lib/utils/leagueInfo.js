@@ -25,7 +25,7 @@ https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#ii-adding
 
 export const managers = [
      {
-      "roster": 1,
+      "roster": 0,
       "managerID" : "743891179418091520",
       "name": "Bradley Baker",
       "location": "Pittsburgh", // (optional)
@@ -47,8 +47,8 @@ export const managers = [
       "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },  
   {
-      "roster": 1
-	  "managerID" : "787009929893531648",
+      "roster": 1,
+      "managerID" : "787009929893531648",
       "name": "Daniel Leighlitner",
       "location": "York", // (optional)
       "bio": "Run too fast, can't stop",
