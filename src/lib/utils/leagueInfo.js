@@ -25,7 +25,7 @@ https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#ii-adding
 
 export const managers = [
      {
-       //"roster": 0,
+      "roster": 0,
       "managerID" : "743891179418091520",
       "name": "Bradley Baker",
       "location": "Pittsburgh", // (optional)
@@ -47,7 +47,7 @@ export const managers = [
       "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },  
   {
-      //"roster": 1,
+      "roster": 1,
       "managerID" : "787009929893531648",
       "name": "Daniel Leighlitner",
       "location": "York", // (optional)
@@ -69,7 +69,7 @@ export const managers = [
       "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
     {
-      //"roster": 2,
+      "roster": 2,
       "managerID" : "786989252952104960",      
       "name": "Robert Feki",
       "location": "Pittsburgh", // (optional)
@@ -91,7 +91,7 @@ export const managers = [
       "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
     {
-      //"roster": 3,
+      "roster": 3,
       "managerID" : "787002240434036736",      
       "name": "Zachary Hall",
       "location": "Pittsburgh", // (optional)
@@ -113,7 +113,7 @@ export const managers = [
       "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
     {
-      //"roster": 4,
+      "roster": 4,
       "managerID" : "787448243712876544",      
       "name": "Nicholas Liberatore",
       "location": "Pittsburgh", // (optional)
@@ -135,7 +135,7 @@ export const managers = [
       "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
     {
-      //"roster": 5,
+      "roster": 5,
       "managerID" : "787465087618252800",      
       "name": "Austin Schmidt",
       "location": "Pittsburgh", // (optional)
@@ -157,7 +157,7 @@ export const managers = [
       "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
     {
-      //"roster": 6,
+      "roster": 6,
       "managerID" : "795791510544199680",      
       "name": "Brock Schmidt",
       "location": "Export", // (optional)
@@ -179,7 +179,7 @@ export const managers = [
       "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
     {
-      //"roster": 7,
+      "roster": 7,
       "managerID" : "791158523777114112",      
       "name": "David Contento",
       "location": "Unknown", // (optional)
